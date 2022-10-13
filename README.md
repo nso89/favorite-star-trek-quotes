@@ -1,5 +1,3 @@
-Favorite Star Trek Quotes
-
 ```
 Enterprise:
 
