@@ -28,7 +28,7 @@ understanding women. When I have some, I'll let you know. - In Theory
 
 I never knew what a friend was until I met Geordi. He spoke to me as though I were human. 
 He treated me no differently from anyone else.  He accepted me for what I am. And that, I 
-have learned, is friendship. - In Theory
+have learned, is friendship. - The Next Phase
 
 I do know why you ended up on the Enterprise. I asked for you. I wanted to make sure that 
 you got a fair chance to redeem yourself. - Lower Decks
