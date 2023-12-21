@@ -1,6 +1,7 @@
 * [Enterprise](#enterprise)
 * [Discovery](#discovery)
 * [The Next Generation](#the-next-generation)
+* [Generations](#generations)
 
 
 <a name="enterprise"></a>Enterprise
@@ -57,4 +58,9 @@ come again. - Inner Light, Captain Picard (Patrick Stewart)
 ```
 I do know why you ended up on the Enterprise. I asked for you. I wanted to make sure that 
 you got a fair chance to redeem yourself. - Lower Decks, Captain Picard (Patrick Stewart)
+```
+
+<a name="the-next-generation"></a>Generations
+```
+ime is the fire in which we burn. - Soran (Malcolm McDowell)
 ```
