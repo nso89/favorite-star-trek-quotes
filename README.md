@@ -92,3 +92,9 @@ you  from  a universe that doesn't share your sense of right and wrong.
 Then let's move on. We've got a long way to go.
 - Eye of the Needle, Captain Janeway (Kate Mulgrew)
 ```
+
+```
+But you are more like me than you are like them.  I've seen the way you isolate yourself. 
+Even in a crowd of people, you're alone. We should be together.
+- Alter Ego, Marayna (Sandra Nelson)
+```
