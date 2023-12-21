@@ -33,5 +33,6 @@ I'm not going to win this one, am I Chief? - The Wounded, Benjamin Maxwell (Bob 
 
 ```
 But you give me so much. You spend time with me when I was lonely, you encouraged me when 
-I'm down. No man has ever been kinder to me. Those are the things that matter.  In Theory, Jenna D'Sora (Michele Scarabelli)
+I'm down. No man has ever been kinder to me. Those are the things that matter.
+In Theory, Jenna D'Sora (Michele Scarabelli)
 ```
