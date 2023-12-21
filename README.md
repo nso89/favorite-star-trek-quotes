@@ -3,6 +3,7 @@
 * [The Next Generation](#the-next-generation)
 * [Generations](#generations)
 * [Deep Space Nine](#deep-space-nine)
+* [Voyager](#voyager)
 
 <a name="enterprise"></a>Enterprise:
 ```
@@ -84,4 +85,9 @@ Federation  needs men like you, Doctor - men of conscience, men of principle, me
 sleep at night. You're also the reason Section 31 exists. Someone has to protect men like 
 you  from  a universe that doesn't share your sense of right and wrong.
 - Inter Arma Enim Silent Leges, Luther Sloan (William Sadler) 
+```
+
+<a name="voyager"></a>Voyager:
+```
+Then let's move on. We've got a long way to go. - Eye of the Needle, Captain Janeway (Kate Mulgrew)
 ```
