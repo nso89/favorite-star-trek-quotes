@@ -4,6 +4,7 @@
 * [Generations](#generations)
 * [Deep Space Nine](#deep-space-nine)
 * [Voyager](#voyager)
+* [Picard](#picard)
 
 <a name="enterprise"></a>Enterprise:
 ```
@@ -97,4 +98,12 @@ Then let's move on. We've got a long way to go.
 But you are more like me than you are like them.  I've seen the way you isolate yourself. 
 Even in a crowd of people, you're alone. We should be together.
 - Alter Ego, Marayna (Sandra Nelson)
+```
+
+<a name="picard"></a>Picard:
+```
+
+There  will  be  a  time  when  you will need to remember that,  no  matter how bleak  or
+unwinnable a situation, as long as you and your crew remain steadfast in your dedication,
+one to another, you are never ever without hope.- No Win Scenario, Captain Picard (Patrick Stewart)
 ```
