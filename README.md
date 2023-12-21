@@ -1,5 +1,6 @@
 * [Enterprise](#enterprise)
 * [Discovery](#discovery)
+* [The Next Generation](#the-next-generation)
 
 
 <a name="Enterprise"></a>Enterprise
@@ -11,4 +12,12 @@ this is what I was meant to do. Good luck, Captain. - Similitude, Trip Tucker (C
 <a name="Discovery"></a>Discovery
 ```
 Be bold. Be brave. Be courageous. - New Eden, Captain Pike (Anson Mount)
+```
+
+<a name="The Next Generation"></a>The Next Generation
+```
+These officers are here to assist you. Not judge, help you. You should make use of  them. 
+They  are  a  valuable resource. And by the way, I respect an officer who is prepared  to 
+admit  ignorance  and  ask  a  question,  rather  than one who out of pride will  blunder 
+blindly forward. - Pen Pals, Captain Picard (Patrick Stewart)
 ```
