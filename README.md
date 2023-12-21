@@ -78,3 +78,11 @@ If you  don't,  she'll move on and you'll never know what you might have had.  A
 with that is worse than having a broken heart, believe me.
 - A Simple Investigation, Julian Bashir (Alexander Siddig)
 ```
+
+```
+Federation  needs men like you, Doctor - men of conscience, men of principle, men who can 
+sleep at night. You're also the reason Section 31 exists. Someone has to protect men like 
+you  from  a universe that doesn't share your sense of right and wrong.
+- Inter Arma Enim, Luther Sloan (William Sadler)  
+Silent Leges
+```
