@@ -48,3 +48,8 @@ I never knew what a friend was until I met Geordi. He spoke to me as though I we
 He treated me no differently from anyone else.  He accepted me for what I am. And that, I 
 have learned, is friendship. - The Next Phase, Data (Brent Spiner)
 ```
+
+```
+Seize the time, Meribor. Live now. Make now always the most precious time. Now will never 
+come again. - Inner Light, Captain Picard (Patrick Stewart)
+```
