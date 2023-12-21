@@ -36,3 +36,8 @@ But you give me so much. You spend time with me when I was lonely, you encourage
 I'm down. No man has ever been kinder to me. Those are the things that matter.
 - In Theory, Jenna D'Sora (Michele Scarabelli)
 ```
+
+```
+Yes,  I've heard,  Data, and  I  would  be  delighted to  offer  any  advice  I  can   on 
+understanding women. When I have some, I'll let you know. - In Theory, Captain Picard (Patrick Stewart)
+```
