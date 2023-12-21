@@ -2,20 +2,20 @@
 * [Discovery](#discovery)
 * [The Next Generation](#the-next-generation)
 * [Generations](#generations)
+* [Deep Space Nine](#deep-space-nine)
 
-
-<a name="enterprise"></a>Enterprise
+<a name="enterprise"></a>Enterprise:
 ```
 You  said  to  me  once that commanding a starship was what you were meant to do. I guess 
 this is what I was meant to do. Good luck, Captain. - Similitude, Trip Tucker (Connor Trinneer)
 ```
 
-<a name="discovery"></a>Discovery
+<a name="discovery"></a>Discovery:
 ```
 Be bold. Be brave. Be courageous. - New Eden, Captain Pike (Anson Mount)
 ```
 
-<a name="the-next-generation"></a>The Next Generation
+<a name="the-next-generation"></a>The Next Generation:
 ```
 These officers are here to assist you. Not judge, help you. You should make use of  them. 
 They  are  a  valuable resource. And by the way, I respect an officer who is prepared  to 
@@ -60,7 +60,13 @@ I do know why you ended up on the Enterprise. I asked for you. I wanted to make 
 you got a fair chance to redeem yourself. - Lower Decks, Captain Picard (Patrick Stewart)
 ```
 
-<a name="generations"></a>Generations
+<a name="generations"></a>Generations:
 ```
 Time is the fire in which we burn. - Soran (Malcolm McDowell)
+```
+
+<a name="deep-space-nine"></a>Deep Space Nine:
+```
+Like  I  used  to  say.  Always burn your bridges behind you. You never know who might be 
+trying to follow. - Improbable Cause, Enabran Tain (Paul Dooley)
 ```
