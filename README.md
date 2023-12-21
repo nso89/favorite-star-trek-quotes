@@ -39,5 +39,6 @@ I'm down. No man has ever been kinder to me. Those are the things that matter.
 
 ```
 Yes,  I've heard,  Data, and  I  would  be  delighted to  offer  any  advice  I  can   on 
-understanding women. When I have some, I'll let you know. - In Theory, Captain Picard (Patrick Stewart)
+understanding women. When I have some, I'll let you know.
+- In Theory, Captain Picard (Patrick Stewart)
 ```
