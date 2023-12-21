@@ -102,7 +102,6 @@ Even in a crowd of people, you're alone. We should be together.
 
 <a name="picard"></a>Picard:
 ```
-
 There  will  be  a  time  when  you will need to remember that,  no  matter how bleak  or
 unwinnable a situation, as long as you and your crew remain steadfast in your dedication,
 one to another, you are never ever without hope.
