@@ -53,3 +53,8 @@ have learned, is friendship. - The Next Phase, Data (Brent Spiner)
 Seize the time, Meribor. Live now. Make now always the most precious time. Now will never 
 come again. - Inner Light, Captain Picard (Patrick Stewart)
 ```
+
+```
+I do know why you ended up on the Enterprise. I asked for you. I wanted to make sure that 
+you got a fair chance to redeem yourself. - Lower Decks, Captain Picard (Patrick Stewart)
+```
