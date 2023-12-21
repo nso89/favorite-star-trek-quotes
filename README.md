@@ -1,6 +1,6 @@
 * [Enterprise](#enterprise)
 * [Discovery](#discovery)
-* [TOS](#tos)
+* [The Original Series](#the-original-series)
 * [The Next Generation](#the-next-generation)
 * [Generations](#generations)
 * [Deep Space Nine](#deep-space-nine)
@@ -18,7 +18,7 @@ this is what I was meant to do. Good luck, Captain. - Similitude, Trip Tucker (C
 Be bold. Be brave. Be courageous. - New Eden, Captain Pike (Anson Mount)
 ```
 
-<a name="tos"></a>TOS:
+<a name="the-original-series"></a>The Original Series:
 ```
 Leave any bigotry in your quarters, there's no room for it on the bridge.
 - Balance of Terror, Captain Kirk (William Shatner)
