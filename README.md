@@ -83,6 +83,5 @@ with that is worse than having a broken heart, believe me.
 Federation  needs men like you, Doctor - men of conscience, men of principle, men who can 
 sleep at night. You're also the reason Section 31 exists. Someone has to protect men like 
 you  from  a universe that doesn't share your sense of right and wrong.
-- Inter Arma Enim, Luther Sloan (William Sadler)  
-Silent Leges
+- Inter Arma Enim Silent Leges, Luther Sloan (William Sadler) 
 ```
