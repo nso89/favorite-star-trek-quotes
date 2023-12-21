@@ -70,3 +70,11 @@ Time is the fire in which we burn. - Soran (Malcolm McDowell)
 Like  I  used  to  say.  Always burn your bridges behind you. You never know who might be 
 trying to follow. - Improbable Cause, Enabran Tain (Paul Dooley)
 ```
+
+```
+Rejects you?  She might.  But you can't go  through life trying to avoid getting a broken 
+heart. If you do, it'll break from loneliness anyway. So you might as well take a chance. 
+If you  don't,  she'll move on and you'll never know what you might have had.  And living 
+with that is worse than having a broken heart, believe me.
+- A Simple Investigation, Julian Bashir (Alexander Siddig)
+```
