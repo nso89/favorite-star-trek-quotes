@@ -26,3 +26,7 @@ blindly forward. - Pen Pals, Captain Picard (Patrick Stewart)
 It  is  possible  to  commit  no mistakes and still lose. That is not a weakness. That is 
 life. - Peak Performance, Captain Picard (Patrick Stewart)
 ```
+
+```
+I'm not going to win this one, am I Chief? - The Wounded, Benjamin Maxwell (Bob Gunton) 
+```
