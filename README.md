@@ -89,5 +89,6 @@ you  from  a universe that doesn't share your sense of right and wrong.
 
 <a name="voyager"></a>Voyager:
 ```
-Then let's move on. We've got a long way to go. - Eye of the Needle, Captain Janeway (Kate Mulgrew)
+Then let's move on. We've got a long way to go.
+- Eye of the Needle, Captain Janeway (Kate Mulgrew)
 ```
