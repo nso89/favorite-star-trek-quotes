@@ -21,3 +21,8 @@ They  are  a  valuable resource. And by the way, I respect an officer who is pre
 admit  ignorance  and  ask  a  question,  rather  than one who out of pride will  blunder 
 blindly forward. - Pen Pals, Captain Picard (Patrick Stewart)
 ```
+
+```
+It  is  possible  to  commit  no mistakes and still lose. That is not a weakness. That is 
+life. - Peak Performance, Captain Picard (Patrick Stewart)
+```
