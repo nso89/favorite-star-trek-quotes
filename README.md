@@ -60,7 +60,7 @@ I do know why you ended up on the Enterprise. I asked for you. I wanted to make 
 you got a fair chance to redeem yourself. - Lower Decks, Captain Picard (Patrick Stewart)
 ```
 
-<a name="the-next-generation"></a>Generations
+<a name="generations"></a>Generations
 ```
 ime is the fire in which we burn. - Soran (Malcolm McDowell)
 ```
