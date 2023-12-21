@@ -62,5 +62,5 @@ you got a fair chance to redeem yourself. - Lower Decks, Captain Picard (Patrick
 
 <a name="generations"></a>Generations
 ```
-ime is the fire in which we burn. - Soran (Malcolm McDowell)
+Time is the fire in which we burn. - Soran (Malcolm McDowell)
 ```
